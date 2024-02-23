@@ -1,0 +1,33 @@
+.nav{
+    margin-top: 10px;
+    /* color: rgb(176, 61, 61); */
+
+}
+.bg-body-tertiary{
+    width: 100%;
+    /* color: rgb(167, 68, 68); */
+}
+.d-flex{
+    margin-left: 300px;
+}
+.me-2{
+    width: 400px;
+}
+
+.name{
+    font-size: 25px;
+    margin-left: 80px;
+}
+
+#eshop{
+    font-size: 30px;
+    margin-left: 10px;
+
+}
+
+#linecard{
+    font-size: 30px;
+    margin-left: 300px;
+    color:black;
+    margin-top: 10px ;
+}
