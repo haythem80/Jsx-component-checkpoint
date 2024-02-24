@@ -1,11 +1,14 @@
 .nav{
-    margin-top: 10px;
-    /* color: rgb(176, 61, 61); */
+    /* margin-top: 10px; */
+    margin-left: -100px;
+    background: orange;
+    position: sticky;
 
 }
+
 .bg-body-tertiary{
-    width: 100%;
-    /* color: rgb(167, 68, 68); */
+    width: 100px;
+    /* background-color: aqua; */
 }
 .d-flex{
     margin-left: 300px;
@@ -16,7 +19,7 @@
 
 .name{
     font-size: 25px;
-    margin-left: 80px;
+    margin-left: 120px;
 }
 
 #eshop{
@@ -30,4 +33,19 @@
     margin-left: 300px;
     color:black;
     margin-top: 10px ;
+}
+
+#basic-nav-dropdown{
+    position: absolute;
+    margin-left: 120px;
+    color: black;
+}
+h4{
+    margin-top: 8px;
+}
+
+#dropdown{
+    /* margin-left: 170px; */
+    width: 15px;
+    height: 15px;
 }
